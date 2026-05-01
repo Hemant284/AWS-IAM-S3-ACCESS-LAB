@@ -37,7 +37,7 @@ This policy provides read and write access to Amazon S3.
 The principle of least privilege means giving a user only the minimum permissions required to perform a task. In this lab, the IAM user was given access only for Amazon S3 instead of full administrator access to the AWS account.
 
 ## Screenshots
-Sensitive information such as AWS account ID, ARN, email, sign-in URL, access keys, and password are hidden for security.
+![IAM User Permissions](IAM-permissions.jpeg)
 
 ### IAM User Permissions
 Add screenshot here showing IAM user permissions and attached policy.
